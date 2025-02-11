@@ -1,0 +1,201 @@
+id_employe,nom,prenom,email,poste,niveau_seniorite,date_embauche,salaire_brut_annuel,bonus_annuel,statut
+1,Murphy,Sarah,henrylarson@acevedo.com,AI Engineer,Senior,2021-09-16,63365.72,7730.63,Actif
+2,Harrison,Jose,james82@coleman.com,AI Engineer,Lead,2023-12-21,88316.01,4434.14,Partant
+3,Harris,Victoria,nicole59@gmail.com,Database Administrator,Manager,2020-07-18,47551.33,10585.21,Actif
+4,Wilkins,Michele,michaelgillespie@gross.com,Software Developer,Manager,2024-05-24,58680.6,12664.57,Actif
+5,Rangel,Cory,brookecampos@yahoo.com,Project Manager,Lead,2017-08-05,48175.09,12125.0,En congé
+6,Thomas,Stephanie,michelle20@steele.biz,Cybersecurity Analyst,Manager,2016-10-15,36749.91,10563.06,Partant
+7,Baldwin,Tammie,kevin10@hotmail.com,Tech Lead,Senior,2018-09-09,40859.46,3685.68,Partant
+8,Lopez,Kevin,jonathanrivera@gmail.com,System Administrator,Confirmé,2020-12-25,65586.41,10897.99,En congé
+9,Bennett,Patricia,michaelrobbins@horn.info,Project Manager,Junior,2020-04-22,116036.17,5486.0,En congé
+10,Sanchez,Rebecca,matthewjones@yahoo.com,Project Manager,Manager,2015-06-25,93152.72,11172.99,En congé
+11,Wilson,Michele,veronicacooley@carey.com,System Administrator,Senior,2024-10-27,39110.58,11113.66,Actif
+12,Cortez,Bruce,lynn46@yahoo.com,Data Scientist,Senior,2024-10-09,108741.35,3564.8,Actif
+13,Romero,Meghan,clarksonya@yahoo.com,AI Engineer,Senior,2018-12-07,49171.13,10190.43,Partant
+14,Ellis,Tanya,fisherbrittany@berry-bridges.net,Tech Lead,Confirmé,2025-01-09,57230.95,10223.17,Actif
+15,Hart,Tiffany,zacharyhorton@cannon-gonzalez.com,Data Scientist,Senior,2019-03-01,80937.54,3329.14,En congé
+16,Baker,Monica,michaeloconnell@yahoo.com,AI Engineer,Senior,2021-06-06,61412.63,12821.19,En congé
+17,Smith,Jacob,nicholassmith@lee.biz,Database Administrator,Junior,2017-03-23,70900.09,1749.8,Partant
+18,Larson,Crystal,quinnmary@taylor-campbell.com,Tech Lead,Junior,2021-05-01,55248.95,7210.26,Partant
+19,Murillo,Tracy,elizabethclark@williams.com,IT Engineer,Senior,2019-02-01,85849.58,13867.0,Actif
+20,Diaz,Johnny,robertsexton@johnson.com,Data Scientist,Junior,2025-01-25,69529.72,7996.39,Partant
+21,Munoz,John,pvaughan@kemp.net,Software Developer,Manager,2025-01-31,91205.2,4240.95,En congé
+22,Burns,Heather,vaughanmallory@alvarado-carter.biz,Database Administrator,Confirmé,2020-03-27,85631.56,10345.01,En congé
+23,Brown,Sheila,michaelhenry@delacruz.com,AI Engineer,Senior,2018-03-27,91636.0,1400.41,Partant
+24,Hernandez,Stanley,michael96@best-kelly.org,Project Manager,Senior,2019-12-06,118191.29,9665.62,Partant
+25,Williamson,Lauren,bryanbrian@morgan-brooks.com,Cybersecurity Analyst,Junior,2021-11-25,39435.06,10715.01,Actif
+26,Lee,Deanna,ymiller@roach.com,Cloud Engineer,Senior,2020-08-07,108158.33,11852.83,Actif
+27,Cannon,Fernando,wendyboyer@hotmail.com,System Administrator,Junior,2020-07-24,79036.81,14293.03,Actif
+28,Gutierrez,Austin,leonroberts@vasquez.com,Tech Lead,Senior,2015-09-05,110583.65,2018.51,Partant
+29,Dougherty,Danielle,louissimon@yahoo.com,IT Engineer,Confirmé,2016-08-13,61334.6,7671.79,En congé
+30,Ryan,Jonathan,sally28@yahoo.com,IT Engineer,Junior,2020-03-11,117806.88,6123.91,Actif
+31,Malone,Samantha,mknight@lee.biz,IT Engineer,Senior,2018-04-23,101673.44,2107.74,Actif
+32,Buchanan,Bruce,fcastillo@parks.com,Tech Lead,Junior,2022-02-21,55438.94,9469.97,Partant
+33,Solis,Morgan,henrymichael@gonzalez-williams.com,Cybersecurity Analyst,Lead,2016-09-08,36721.65,14572.57,En congé
+34,Wade,Kyle,jennifer68@yahoo.com,System Administrator,Lead,2024-03-07,55584.51,7348.41,En congé
+35,Moore,Dorothy,sarahorr@hotmail.com,System Administrator,Manager,2022-08-31,88383.62,6152.48,Partant
+36,Parker,Jennifer,slong@hotmail.com,IT Engineer,Senior,2017-08-13,118370.45,14706.07,Actif
+37,Peterson,Lacey,peterwilson@hotmail.com,Data Scientist,Manager,2019-12-17,97325.0,5063.71,En congé
+38,Gross,Heather,hlewis@webster.biz,DevOps Engineer,Senior,2016-08-30,42470.49,12866.96,Partant
+39,Henderson,Karen,amanda83@jones.com,IT Engineer,Lead,2024-10-22,48846.42,9805.9,Actif
+40,Hall,Destiny,ewilson@price.com,IT Engineer,Senior,2017-03-02,47412.75,14422.44,Actif
+41,Lopez,Selena,raymark@gmail.com,HR Manager,Senior,2019-12-18,116010.57,12070.78,Actif
+42,Johnson,Dale,benjamin75@gmail.com,AI Engineer,Lead,2018-02-20,87159.32,6416.83,En congé
+43,Bell,Raymond,russelldavid@yahoo.com,Tech Lead,Confirmé,2015-06-17,44406.05,2754.14,Actif
+44,Kelly,Diane,thomas01@hotmail.com,Data Scientist,Junior,2018-11-26,89529.12,7591.67,En congé
+45,Weiss,Victoria,adamrodriguez@hotmail.com,Project Manager,Senior,2018-03-31,42130.4,5208.93,Actif
+46,Charles,Allison,leconnie@yahoo.com,IT Engineer,Senior,2020-02-16,59961.95,4655.39,Partant
+47,Calderon,Kimberly,sarahsmith@hotmail.com,Business Analyst,Junior,2024-04-04,83737.38,11697.69,Actif
+48,Rivera,Vanessa,ctate@hotmail.com,Software Developer,Manager,2024-02-09,83840.14,2267.68,Partant
+49,Leon,Edward,zgood@gmail.com,System Administrator,Junior,2023-09-13,115618.21,5391.2,Partant
+50,Garcia,Kimberly,fjimenez@martinez.info,HR Manager,Manager,2023-07-12,43887.0,10582.69,Partant
+51,Hernandez,Christina,ashley42@ferguson-mitchell.com,AI Engineer,Lead,2023-02-25,65157.66,12602.19,En congé
+52,Williams,Patricia,lisa92@gmail.com,Cloud Engineer,Senior,2017-07-15,100264.75,2027.11,En congé
+53,Mcdaniel,Lauren,cardenasveronica@henderson.com,Data Scientist,Manager,2019-09-30,107105.14,8260.45,Actif
+54,Bauer,Michelle,robert08@yahoo.com,Project Manager,Confirmé,2024-12-07,70144.57,4833.81,Actif
+55,Cook,Kelly,xaustin@yahoo.com,DevOps Engineer,Manager,2022-08-18,97944.07,5129.74,Actif
+56,Kirby,Samantha,vincentjoanne@gmail.com,IT Engineer,Junior,2020-06-03,102279.99,8260.69,Partant
+57,Wang,Nicole,vickie57@carter.com,Software Developer,Lead,2019-06-16,45806.36,3308.18,Partant
+58,Calhoun,Michael,autumnnorman@yahoo.com,HR Manager,Confirmé,2015-09-13,92846.83,5070.44,En congé
+59,Brooks,Steve,mcculloughmax@hotmail.com,Data Scientist,Junior,2021-09-22,72048.91,7377.73,Actif
+60,Miles,Jack,carterdavid@hampton.com,Cloud Engineer,Senior,2021-08-14,98224.94,14252.38,Actif
+61,Villanueva,Stacy,gonzalezsamantha@yahoo.com,Tech Lead,Junior,2023-07-12,92326.36,1228.91,En congé
+62,Collier,Brad,murrayandrea@hotmail.com,HR Manager,Lead,2016-06-18,85255.42,3082.5,En congé
+63,Mahoney,Grace,robertacosta@yahoo.com,IT Engineer,Confirmé,2023-04-05,63374.14,13972.13,En congé
+64,Lopez,Randy,gcollins@le.info,HR Manager,Lead,2018-10-22,112495.3,11997.83,Actif
+65,Wilson,Walter,aprilnovak@downs.com,Database Administrator,Manager,2019-04-01,92388.75,3235.24,En congé
+66,Hayden,Morgan,karenhardy@hotmail.com,Tech Lead,Confirmé,2022-12-08,102385.68,2700.13,En congé
+67,Zhang,Andrea,nstrickland@hotmail.com,Project Manager,Manager,2016-12-23,86372.01,7194.66,En congé
+68,Hill,Sarah,garrisoncody@yahoo.com,Database Administrator,Manager,2016-04-23,92231.61,14953.21,En congé
+69,Perez,Timothy,jonathan36@gmail.com,Cybersecurity Analyst,Confirmé,2024-12-26,88566.63,10730.11,Partant
+70,Turner,Noah,anthonycontreras@yahoo.com,System Administrator,Manager,2017-02-12,43757.58,10780.39,En congé
+71,Brown,Melissa,evanswilliam@hotmail.com,System Administrator,Junior,2018-09-20,69583.54,11623.47,Partant
+72,Howard,Steve,candrews@carter.com,Project Manager,Senior,2020-12-09,61780.84,4727.96,Partant
+73,Palmer,Danielle,harringtonpamela@hotmail.com,DevOps Engineer,Manager,2016-09-02,35065.84,6982.34,En congé
+74,Evans,Kevin,grayjason@day.com,AI Engineer,Lead,2019-08-07,41596.9,11029.39,En congé
+75,Jackson,Allison,susan10@yahoo.com,Tech Lead,Confirmé,2019-11-22,60082.37,14639.8,Actif
+76,Patterson,Andrew,kliu@woods-hernandez.com,AI Engineer,Lead,2015-08-19,45656.94,7014.29,Partant
+77,Drake,Kathy,rthomas@yahoo.com,Database Administrator,Senior,2019-03-10,44178.16,11489.72,Partant
+78,Davis,Sara,stephaniecoleman@pittman.com,Business Analyst,Senior,2023-04-30,105117.76,8619.07,En congé
+79,Chavez,Joshua,eayers@mills.com,Cybersecurity Analyst,Lead,2022-07-03,90196.6,7887.07,En congé
+80,Short,Ashley,qcook@gmail.com,IT Engineer,Lead,2025-02-06,91065.44,2083.51,Actif
+81,Arroyo,Carol,kristin74@henderson.com,Cloud Engineer,Lead,2025-01-23,61871.43,2709.01,Partant
+82,Wells,Robert,jeremy06@wise.info,Data Scientist,Confirmé,2016-03-03,115672.92,3748.1,Partant
+83,Smith,Felicia,brianmartin@hotmail.com,System Administrator,Lead,2016-07-23,96793.96,4410.51,Actif
+84,Roy,Samantha,scaldwell@gmail.com,IT Engineer,Manager,2017-03-16,72338.27,6983.25,Actif
+85,Pearson,Katelyn,smallalicia@gmail.com,System Administrator,Senior,2021-06-15,107461.36,1278.35,Actif
+86,Turner,Jason,nelsonjulie@sexton-salas.com,Cybersecurity Analyst,Junior,2016-12-08,81864.78,8163.59,Actif
+87,Brown,Nicole,johnsonjason@gmail.com,System Administrator,Lead,2018-08-05,108225.22,1349.78,Actif
+88,Waller,John,ubullock@clark.info,Cloud Engineer,Confirmé,2019-07-28,56159.8,7817.82,Partant
+89,Castro,Thomas,cynthiajimenez@rojas.com,Tech Lead,Junior,2019-11-02,68085.36,10711.09,Actif
+90,Fuentes,Rachel,jshannon@phillips.com,Tech Lead,Junior,2022-01-17,118820.19,14194.78,Actif
+91,Arellano,Shannon,joshua67@gmail.com,Software Developer,Junior,2021-10-12,72796.17,14855.94,En congé
+92,Stevenson,Diane,russell20@hotmail.com,System Administrator,Confirmé,2023-01-01,106066.7,13027.98,Actif
+93,Campbell,Brenda,halemadison@gmail.com,DevOps Engineer,Lead,2019-03-14,65321.02,10000.12,En congé
+94,Martin,Logan,richardsonsusan@atkins.com,Data Scientist,Lead,2015-05-13,64480.96,8285.88,En congé
+95,Alexander,Taylor,hgreer@sutton.org,HR Manager,Junior,2022-01-15,71869.14,2895.58,En congé
+96,Simmons,Cassandra,kennedynicole@romero-hudson.com,Project Manager,Confirmé,2018-09-17,48082.34,8421.7,Actif
+97,Velez,Paul,carloswilliams@yahoo.com,System Administrator,Senior,2023-04-02,73239.96,3986.08,Partant
+98,Whitaker,Lisa,bvasquez@jenkins-sanford.info,DevOps Engineer,Junior,2024-04-18,50930.3,9021.46,En congé
+99,Potts,Kimberly,haydenlong@delgado-lewis.net,System Administrator,Junior,2015-07-26,80715.53,5231.11,Partant
+100,Wolfe,James,slopez@hotmail.com,Business Analyst,Junior,2024-05-06,100150.53,1981.56,Partant
+101,Black,Kathryn,michelleschmidt@gmail.com,HR Manager,Junior,2015-09-30,94535.84,1078.29,En congé
+102,Maldonado,Gerald,montgomerypaul@hotmail.com,IT Engineer,Lead,2020-08-12,93542.4,11774.17,En congé
+103,Cobb,Anthony,davisjennifer@payne-howard.com,Software Developer,Lead,2024-12-06,86711.63,6707.73,En congé
+104,Wolf,Jesus,odunn@hotmail.com,Project Manager,Senior,2015-09-27,93782.9,10047.17,Partant
+105,Hendricks,Brian,hartjoshua@gmail.com,System Administrator,Confirmé,2021-07-10,64925.44,9290.67,Partant
+106,Chung,Douglas,jessica59@cardenas-boyd.com,DevOps Engineer,Manager,2023-05-02,65897.65,9984.08,En congé
+107,Anderson,Monique,stephenarnold@flores.com,IT Engineer,Junior,2019-01-18,76542.94,3949.61,Partant
+108,Burgess,Amy,jennifer97@morgan-moreno.net,Tech Lead,Senior,2015-07-16,43576.14,10325.22,Actif
+109,Berry,Michael,nicholasshaw@briggs-kirby.org,Cloud Engineer,Confirmé,2022-01-12,50793.36,14385.37,Partant
+110,Garcia,Jose,destinymartinez@gmail.com,Cloud Engineer,Lead,2017-10-19,50771.18,7490.65,En congé
+111,Williams,Lori,william64@yahoo.com,DevOps Engineer,Junior,2016-11-10,46044.76,12292.5,Partant
+112,Allison,April,howardcharles@hayes.net,IT Engineer,Manager,2017-04-10,105909.96,6467.45,Actif
+113,Herrera,Virginia,harriscole@yahoo.com,Software Developer,Manager,2018-11-03,83610.39,13422.01,Actif
+114,Martinez,Andrew,cmcmahon@casey-mckinney.com,Project Manager,Confirmé,2024-03-26,53580.09,14116.39,Actif
+115,Kane,Brent,kingdavid@tate.org,Project Manager,Senior,2018-01-05,107572.39,2209.8,En congé
+116,Lopez,Tiffany,zhodges@richardson-wells.com,IT Engineer,Manager,2022-05-23,38184.83,2863.09,Partant
+117,Lee,Kristina,davidgraves@roberson.net,DevOps Engineer,Senior,2020-03-02,57998.72,9313.13,Actif
+118,Edwards,Roger,christopher25@parker-adams.com,Database Administrator,Lead,2020-12-24,67929.78,10969.96,Partant
+119,Ford,Amanda,juanbass@yahoo.com,Cloud Engineer,Confirmé,2022-12-15,67836.64,8673.77,Partant
+120,Underwood,Brenda,kimberlynixon@hotmail.com,System Administrator,Senior,2022-10-01,108730.96,14685.06,Partant
+121,Summers,John,rcannon@bradley-ray.org,Software Developer,Junior,2019-10-11,63165.33,2060.19,En congé
+122,Vang,Christopher,thompsonpatrick@espinoza.com,Cybersecurity Analyst,Manager,2017-11-15,114530.44,3425.86,Actif
+123,Ryan,Steven,porterlarry@hotmail.com,Database Administrator,Senior,2016-01-27,100955.14,4501.31,En congé
+124,Castaneda,Charles,evanshannah@anderson.org,Project Manager,Lead,2021-10-21,45684.61,1893.34,Actif
+125,Burns,Loretta,obush@yahoo.com,DevOps Engineer,Senior,2015-05-08,99373.53,11007.24,Partant
+126,Barnes,Susan,jeremy73@lee-stevens.com,Tech Lead,Junior,2016-10-30,55057.86,13439.55,Actif
+127,Mcdonald,Michael,davidramsey@yahoo.com,Business Analyst,Confirmé,2016-03-27,101176.27,1210.28,Actif
+128,Bradley,Daniel,wilsonpatricia@horn.org,Database Administrator,Manager,2021-11-20,75238.33,6362.57,Partant
+129,Johnson,Erika,wadeterri@yahoo.com,IT Engineer,Lead,2023-12-29,104527.14,3390.13,En congé
+130,Osborne,Brett,maxwellmichael@perez.net,DevOps Engineer,Confirmé,2023-06-10,80353.98,8392.54,Actif
+131,Friedman,Andrew,uwalters@gmail.com,Project Manager,Manager,2021-03-29,75311.45,4619.04,Partant
+132,Santiago,Nancy,kristin10@gmail.com,System Administrator,Confirmé,2018-09-07,116265.39,10377.97,Actif
+133,Craig,Timothy,dwayne48@yahoo.com,IT Engineer,Confirmé,2024-10-27,41912.08,6064.41,En congé
+134,Barnes,Patricia,dawn91@yahoo.com,AI Engineer,Lead,2015-10-14,76099.84,5224.5,Partant
+135,Combs,Raymond,rowesteven@kelly-english.com,AI Engineer,Confirmé,2016-05-11,35581.47,12482.59,Partant
+136,Price,Dana,david10@hotmail.com,Project Manager,Senior,2022-08-21,47693.43,9180.99,Actif
+137,Rogers,Andrea,cantualexander@gmail.com,Database Administrator,Junior,2020-11-23,40142.79,12640.73,En congé
+138,Irwin,Chad,andrea82@hotmail.com,Business Analyst,Junior,2020-06-23,47646.01,6825.65,Actif
+139,Mejia,Megan,wgonzalez@johnson.org,Cybersecurity Analyst,Lead,2019-08-08,60709.76,8179.29,Partant
+140,Hansen,Annette,harveykristi@gmail.com,Cloud Engineer,Lead,2016-07-01,111863.28,1431.61,Partant
+141,Olsen,Jonathan,nicole20@gmail.com,Database Administrator,Confirmé,2018-07-12,50841.83,9617.5,Actif
+142,Page,Kathryn,llee@black.net,Cybersecurity Analyst,Manager,2022-03-03,82900.02,13542.34,Partant
+143,Adams,Kelly,williamsdanny@rodriguez-novak.com,Data Scientist,Lead,2022-10-11,45962.14,4485.89,Partant
+144,Blackburn,Karen,michaelmoore@hotmail.com,Business Analyst,Junior,2021-08-07,92296.13,1961.48,Partant
+145,Hernandez,Tiffany,beth96@gmail.com,Cloud Engineer,Lead,2016-01-07,62019.95,12010.74,Partant
+146,Shaffer,Jessica,ryanholloway@keith-crawford.info,Business Analyst,Senior,2018-06-20,36221.87,7389.96,En congé
+147,Sawyer,Elizabeth,brownrobert@gonzalez-salazar.biz,Project Manager,Senior,2017-02-10,89878.24,9081.71,Actif
+148,Rogers,Melissa,charles57@carson.com,AI Engineer,Junior,2020-02-10,37011.44,10276.98,En congé
+149,Smith,Jeff,jacqueline11@yahoo.com,DevOps Engineer,Senior,2017-12-02,56984.91,9086.0,Partant
+150,Thompson,Thomas,brittanyjohnson@clark.com,Project Manager,Lead,2015-12-26,106902.9,4566.32,Partant
+151,Bowers,Frank,garciacalvin@liu.net,Cloud Engineer,Confirmé,2021-01-08,105261.75,9358.55,Partant
+152,Sanchez,James,nicole13@yahoo.com,Cloud Engineer,Confirmé,2016-03-18,54156.06,2665.08,Actif
+153,Stokes,Shelley,rburke@wheeler.com,DevOps Engineer,Confirmé,2018-09-29,101388.14,3911.42,En congé
+154,Cisneros,Laura,oacevedo@hardy.org,Cloud Engineer,Lead,2016-12-23,116940.63,11312.68,Partant
+155,Santana,Amanda,danthony@clark-berry.com,HR Manager,Lead,2017-04-13,80137.69,6858.25,Partant
+156,Green,Jillian,andrewkennedy@duarte.com,Cloud Engineer,Lead,2015-03-16,72333.11,4616.73,Actif
+157,Avery,Eric,nathan95@yahoo.com,Cloud Engineer,Manager,2020-05-21,70426.27,11107.81,En congé
+158,Beck,Emily,harrisjohnathan@hobbs-moon.com,Cybersecurity Analyst,Manager,2017-09-21,98699.98,2581.02,En congé
+159,Cook,Derek,lisa71@gmail.com,Data Scientist,Lead,2023-06-26,50324.12,11183.58,Actif
+160,Harrington,Carol,daniellyons@hotmail.com,DevOps Engineer,Confirmé,2017-08-05,85876.56,7958.17,Partant
+161,Romero,Deborah,sara35@gmail.com,Business Analyst,Lead,2022-04-05,53059.6,6989.58,Partant
+162,Roth,Maria,walkermichael@simmons.com,HR Manager,Junior,2019-12-15,113277.98,13950.88,Actif
+163,Johnson,George,sanchezjoanna@davis-lewis.com,Cloud Engineer,Confirmé,2024-12-12,113172.33,5048.93,Partant
+164,Harris,Jonathan,lukemueller@ball.com,IT Engineer,Lead,2017-10-05,52099.5,1802.45,En congé
+165,Moore,Brandon,fkim@evans.com,Business Analyst,Confirmé,2023-08-13,48490.48,5161.3,Partant
+166,Smith,Julia,mark78@rivera-williams.net,Tech Lead,Lead,2024-12-18,102755.28,5008.48,Actif
+167,Roberts,Brandy,jamesjenkins@yahoo.com,Data Scientist,Lead,2020-06-23,75140.33,3636.67,Actif
+168,Hale,Jennifer,cynthiamaynard@yahoo.com,HR Manager,Manager,2023-09-09,55085.19,10265.94,Partant
+169,Jones,Martin,trevinosheila@brown.com,Tech Lead,Lead,2016-04-09,99372.36,8441.59,En congé
+170,Duncan,Jonathan,ramoschristina@owen.com,Project Manager,Junior,2015-03-30,71737.54,11466.49,Partant
+171,Bradley,Matthew,xprice@harper-williamson.org,Software Developer,Senior,2024-07-22,98140.22,5258.08,En congé
+172,Huffman,Jeffrey,fieldsbrittany@gmail.com,Project Manager,Confirmé,2019-06-16,62208.38,13129.79,Actif
+173,Vasquez,Pamela,lauren27@gonzalez.com,IT Engineer,Lead,2020-01-23,101195.72,12664.65,Partant
+174,Goodwin,Albert,dbryant@yahoo.com,DevOps Engineer,Lead,2021-03-12,74686.89,4902.28,En congé
+175,Henson,Cheryl,ksanchez@gmail.com,Tech Lead,Lead,2023-12-10,54728.97,11777.9,Actif
+176,Garcia,Taylor,ugibson@anderson-cook.org,Cybersecurity Analyst,Manager,2018-07-30,49444.18,6594.04,En congé
+177,Monroe,James,thomas78@yahoo.com,DevOps Engineer,Confirmé,2022-08-12,80072.19,3420.17,En congé
+178,Johnson,Michele,meganharris@oneal-wright.com,Tech Lead,Senior,2019-01-04,86890.52,7681.66,En congé
+179,Gilbert,Jeffrey,kelly81@brooks.com,Business Analyst,Junior,2024-01-24,110575.16,9580.46,Partant
+180,Lozano,Cody,nataliegilbert@andrade.com,AI Engineer,Junior,2018-09-02,51827.58,2344.2,Partant
+181,Knight,Michael,acostamelody@mccormick-simpson.org,Software Developer,Manager,2024-12-14,71603.28,7766.27,En congé
+182,Foster,Rebecca,victorferguson@yahoo.com,Project Manager,Lead,2020-07-16,64819.84,5687.84,Partant
+183,Perez,Felicia,nharvey@solomon-bartlett.com,Data Scientist,Junior,2016-01-31,83035.64,4388.52,Actif
+184,Gilbert,Maria,kyle16@sanchez.com,HR Manager,Manager,2021-03-15,73283.28,13274.46,Partant
+185,Reed,Brittney,tdennis@yahoo.com,Cybersecurity Analyst,Lead,2015-08-27,59298.32,2116.34,Partant
+186,Wade,Alec,tiffanysmith@gmail.com,Tech Lead,Senior,2023-08-13,72354.35,8523.71,Actif
+187,Phillips,Christopher,amywright@phillips-norton.com,Database Administrator,Manager,2020-11-04,60746.19,4108.42,En congé
+188,Oneal,Douglas,lharris@curry.biz,Business Analyst,Lead,2022-01-29,68351.25,6552.77,En congé
+189,Moses,James,conniemiller@kim-long.biz,DevOps Engineer,Lead,2015-07-11,110364.66,10306.15,En congé
+190,Barnett,Jody,carrmichael@yahoo.com,HR Manager,Lead,2024-04-04,118713.84,5541.18,En congé
+191,Davis,Daniel,teresa84@gmail.com,IT Engineer,Junior,2021-12-09,85760.15,3272.42,Partant
+192,Marshall,Kurt,elizabethbennett@yahoo.com,DevOps Engineer,Lead,2024-10-08,68934.52,4382.39,Partant
+193,Weaver,Sarah,carterdavid@edwards.org,Business Analyst,Confirmé,2017-07-17,118615.46,14227.97,Partant
+194,Kidd,Carol,hallchristopher@galloway.biz,Cloud Engineer,Senior,2015-06-29,97183.77,1060.14,En congé
+195,Harper,Margaret,alexandervalenzuela@todd.org,Cloud Engineer,Senior,2021-05-09,117365.5,3616.92,Actif
+196,Martin,Tonya,brandonhoover@gmail.com,HR Manager,Lead,2022-12-03,101823.6,5519.63,Partant
+197,Nelson,Andrew,njones@yahoo.com,Software Developer,Manager,2017-07-05,52721.42,12339.79,Partant
+198,Gilbert,Bryan,saraheaton@yahoo.com,Cybersecurity Analyst,Senior,2016-04-29,66317.42,1239.2,Actif
+199,Brown,Crystal,patriciareed@perry-edwards.com,System Administrator,Confirmé,2024-12-13,58380.13,13202.43,En congé
+200,Sampson,Kimberly,lsantos@carr-holmes.com,Database Administrator,Lead,2016-11-19,115233.28,10027.57,Partant
