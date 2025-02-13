@@ -28,6 +28,18 @@ def employee_stats(request):
     statuts_counts = Employee.objects.values("statut").annotate(total=Count("statut"))
     statuts_stats = {item["statut"]: item["total"] for item in statuts_counts}
 
+    # Répartition par tranche d'âge
+    tranche_age_counts = Employee.objects.values("tranche_age").annotate(total=Count("tranche_age"))
+    tranche_age_stats = {item["tranche_age"]: item["total"] for item in tranche_age_counts}
+
+    # Répartition par type de contrat
+    type_contrat_counts = Employee.objects.values("type_contrat").annotate(total=Count("type_contrat"))
+    type_contrat_stats = {item["type_contrat"]: item["total"] for item in type_contrat_counts}
+
+    # Répartition par état civil
+    etat_civil_counts = Employee.objects.values("etat_civil").annotate(total=Count("etat_civil"))
+    etat_civil_stats = {item["etat_civil"]: item["total"] for item in etat_civil_counts}
+
     # Salaire moyen global
     salaire_moyen = Employee.objects.aggregate(Avg("salaire_brut_annuel"))["salaire_brut_annuel__avg"]
 
@@ -37,6 +49,9 @@ def employee_stats(request):
         "Nombre de postes différents": len(postes_stats),
         "Répartition des niveaux de séniorité": niveaux_counts,
         "Répartition des statuts": statuts_stats,
+        "Répartition par tranche d'âge": tranche_age_stats,
+        "Répartition par type de contrat": type_contrat_stats,
+        "Répartition par état civil": etat_civil_stats,
         "Salaire moyen global": round(salaire_moyen, 2) if salaire_moyen else 0,
         "Nombre d'employés par spécialité": postes_stats,
         "Salaires moyens par poste": salaires_stats_poste,  
